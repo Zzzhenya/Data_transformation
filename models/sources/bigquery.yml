@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: bigquery
+    schema: raw_data
+    database: first-data-project-redi
+    tables:
+      - name: raw_shopping_data
