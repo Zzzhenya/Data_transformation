@@ -66,3 +66,7 @@ Ref: https://stackoverflow.com/questions/7392730/what-does-sql-clause-group-by-1
 * Working on branches
 
 Ref: https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/git-push-new-branch-remote-github-gitlab-upstream-example
+
+* Pull request
+
+Ref: https://git-scm.com/docs/git-request-pull
