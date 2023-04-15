@@ -28,7 +28,9 @@ Ref: https://docs.getdbt.com/docs/build/sources
 # dbt Docs
 
 dbt docs generate
+
 dbt docs serve
+
 dbt docs -h
 
 # dbt cheat-sheet
@@ -58,3 +60,9 @@ Ref: https://learnsql.com/blog/what-is-with-clause-sql/
 Group by the first column of the resulting table/view
 
 Ref: https://stackoverflow.com/questions/7392730/what-does-sql-clause-group-by-1-mean
+
+# Git 
+
+* Working on branches
+
+Ref: https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/git-push-new-branch-remote-github-gitlab-upstream-example
