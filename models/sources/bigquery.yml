@@ -6,3 +6,4 @@ sources:
     database: first-data-project-redi
     tables:
       - name: raw_shopping_data
+      - name: raw_fx
