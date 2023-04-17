@@ -1,4 +1,13 @@
-Welcome to your new dbt project!
+# Data pipeline to transform shopping data based on faily forex rates for visualization
+
+Visualization: 
+
+## Data Sources
+
+* Shopping data source: 
+
+* Forex source: 
+
 
 ### Using the starter project
 
