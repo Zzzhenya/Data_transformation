@@ -1,12 +1,20 @@
-# Data pipeline to transform shopping data based on faily forex rates for visualization
+# Data Transformation dbt repository
 
-Visualization: 
+Data pipeline to transform shopping data based on daily forex rates for visualization.
 
-## Data Sources
+Visualization: https://lookerstudio.google.com/reporting/177f7681-8063-4f04-8631-4c6772106fc1
 
-* Shopping data source: 
+## Data and Tools
+### Data Sources
+* Shopping data source: https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset
+* Forex source: https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-try.en.html
+### Tools
 
-* Forex source: 
+* Warehouse: Google BigQuery
+
+* Transformation: dbt core
+
+* Visualization: Google Looker Studio
 
 
 ### Using the starter project
