@@ -16,7 +16,14 @@ Visualization: https://lookerstudio.google.com/reporting/177f7681-8063-4f04-8631
 
 * Visualization: Google Looker Studio
 
+## Setting up
 
+### BigQuery
+
+### dbt core for BigQuery
+
+### Run dbt
+    
 ### Using the starter project
 
 Try running the following commands:
