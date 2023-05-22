@@ -17,7 +17,9 @@ Visualization: https://lookerstudio.google.com/reporting/177f7681-8063-4f04-8631
 * Visualization: Google Looker Studio
 
 
-### Using the starter project
+### How to setup
+
+https://medium.com/@zzzzhenya/following-dbt-fundamentals-with-dbt-core-9edb5b8f12d6
 
 Try running the following commands:
 - dbt run
