@@ -26,9 +26,9 @@ dbt DAG
 
 ### dbt core for BigQuery
 
-### Run dbt
-    
-### Using the starter project
+### How to setup
+
+https://medium.com/@zzzzhenya/following-dbt-fundamentals-with-dbt-core-9edb5b8f12d6
 
 Try running the following commands:
 - dbt run
