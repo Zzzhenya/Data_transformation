@@ -22,12 +22,7 @@ dbt DAG
 
 ## Setting up
 
-### BigQuery
-
-### dbt core for BigQuery
-
 ### How to setup
-
 https://medium.com/@zzzzhenya/following-dbt-fundamentals-with-dbt-core-9edb5b8f12d6
 
 Try running the following commands:
