@@ -2,7 +2,9 @@
 
 Data pipeline to transform shopping data based on daily forex rates for visualization.
 
-Visualization: https://lookerstudio.google.com/reporting/177f7681-8063-4f04-8631-4c6772106fc1
+Looker visualization: https://lookerstudio.google.com/reporting/177f7681-8063-4f04-8631-4c6772106fc1
+
+![Looker Dashboard](https://github.com/Zzzhenya/Data_transformation/blob/main/Looker%20Dashboard%202023-06-24%20at%202.56.18%20PM.png)
 
 dbt DAG
 
