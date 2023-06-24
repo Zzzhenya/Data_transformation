@@ -4,6 +4,10 @@ Data pipeline to transform shopping data based on daily forex rates for visualiz
 
 Visualization: https://lookerstudio.google.com/reporting/177f7681-8063-4f04-8631-4c6772106fc1
 
+dbt DAG
+
+![dbt dag](https://github.com/Zzzhenya/Data_transformation/blob/main/dbt-dag.png)
+
 ## Data and Tools
 ### Data Sources
 * Shopping data source: https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset
@@ -16,6 +20,11 @@ Visualization: https://lookerstudio.google.com/reporting/177f7681-8063-4f04-8631
 
 * Visualization: Google Looker Studio
 
+## Setting up
+
+### BigQuery
+
+### dbt core for BigQuery
 
 ### How to setup
 
